@@ -3,7 +3,9 @@ node_modules
 /dist
 .browserslistrc
 babel.config.js
-public
+public/
+.browserslistrc
+babel.config.js
 
 # local env files
 .env.local
